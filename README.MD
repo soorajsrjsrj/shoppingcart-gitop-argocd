@@ -6,7 +6,7 @@ You need to have installed Node and NPM.
 ![NodeJS Shopping Cart](/data/nodejs-cart-1.png?raw=true "NodeJS Shopping Cart")
 ### Project Structure
 
-![Project Structure](data/structure.jpg)
+![Project Structure](data/structure.png?raw=true
 
 Clone this repository
 ``` shell
