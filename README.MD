@@ -4,6 +4,9 @@
 You need to have installed Node and NPM.
 
 ![NodeJS Shopping Cart](/data/nodejs-cart-1.png?raw=true "NodeJS Shopping Cart")
+### Project Structure
+
+![Project Structure](/data/structure.jpg?raw=true "Project Structure")
 
 Clone this repository
 ``` shell
@@ -28,4 +31,4 @@ nodemon ./bin/www
 ### Technologies
 NodeJS, Express, Express-Session, Nodemon, hbs - Express.js view engine for handlebars.js
 
-For any extra questions, please contact me at gtsopour@gmail.com. 
+For any extra questions, please contact me at soorajsuneesh@gmail.com. 
